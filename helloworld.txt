@@ -1,4 +1,5 @@
 Hi Hello World!
 I commit 1st - epv
-simulate on merge conflict
+simulate on merge conflict - user1
+I commit 2nd - user2
 
